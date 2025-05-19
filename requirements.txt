@@ -1,4 +1,4 @@
-ray
+ray[tune]
 xgboost
 dask[complete]
 scikit-learn
